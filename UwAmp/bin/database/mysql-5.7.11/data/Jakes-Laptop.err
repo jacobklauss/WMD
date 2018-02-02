@@ -1,0 +1,17 @@
+2018-02-02T06:43:33.036551Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2018-02-02T06:43:33.036551Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-02-02T06:43:33.112051Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2018-02-02T06:43:33.112051Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2018-02-02T06:43:33.148053Z 0 [Note] C:\Users\Jacob\Google Drive\Coding\Repos\WMD\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 24628 ...
+2018-02-02T06:43:33.395552Z 0 [ERROR] Can't open shared library 'C:\Users\Jacob\Google Drive\Coding\Repos\WMD\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 The specified module could not be found.)
+2018-02-02T06:43:33.426053Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2018-02-02T06:43:33.429550Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-02-02T06:43:33.431551Z 0 [Note] InnoDB: Uses event mutexes
+2018-02-02T06:43:33.433553Z 0 [Note] InnoDB: Memory barrier is not used
+2018-02-02T06:43:33.440555Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-02-02T06:43:33.443554Z 0 [Note] InnoDB: Number of pools: 1
+2018-02-02T06:43:33.456054Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2018-02-02T06:43:33.700051Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2018-02-02T06:43:33.727550Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2018-02-02T06:43:34.027552Z 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 48 MB
+2018-02-02T06:43:34.213555Z 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 48 MB

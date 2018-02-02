@@ -1,0 +1,1 @@
+Firstly, Go into UwAmp and run the .exe File, then, in Chrome, go to Localhost/. This is the homepage

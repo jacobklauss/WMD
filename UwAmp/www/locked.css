@@ -1,0 +1,105 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  height: 62px;
+  background-color: #ddd;
+}
+
+a {
+    padding: 12px;
+    font-family: Helvetica;
+    text-decoration: none;
+    font-size: 18pt;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+
+}
+
+a:hover {
+    background-color: #ccc;
+    box-shadow: 0 0 2.5px 5px #999;
+}
+
+.loginnav {
+
+  position: relative;
+  float: right;
+}
+
+.loginnav a {
+
+  font-size: 12pt;
+  Top: calc(37.5px - 6pt);
+}
+
+.lockedtitle {
+  font-family: "Verdana";
+  font-size: 30pt;
+  color: #448;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-color: red;
+  border-width: 6px;
+
+}
+
+.lockedpara {
+  font-family: "Arial";
+  font-size: 18pt;
+  padding-top: 30px;
+  padding-left: 50px;
+
+}
+
+.loginbutton {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 10px;
+  font-size: 20pt;
+  font-family: "Verdana";
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  float: right;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.becomememberbutton {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 10px;
+  font-size: 20pt;
+  font-family: "Verdana";
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  float: right;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.loginbutton:hover {
+    background-color: #3D6;
+    color: white;
+}
+
+.becomememberbutton:hover {
+    background-color: #3D6;
+    color: white;
+}

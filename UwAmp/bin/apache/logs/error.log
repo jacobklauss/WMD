@@ -1,0 +1,15 @@
+[Fri Feb 02 17:43:39.887053 2018] [ssl:warn] [pid 25300:tid 740] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 17:43:39.893554 2018] [ssl:warn] [pid 25300:tid 740] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 17:43:41.613630 2018] [ssl:warn] [pid 25300:tid 740] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 17:43:41.616128 2018] [ssl:warn] [pid 25300:tid 740] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 17:43:41.616128 2018] [ssl:warn] [pid 25300:tid 740] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 17:43:42.016628 2018] [mpm_winnt:notice] [pid 25300:tid 740] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Fri Feb 02 17:43:42.016628 2018] [mpm_winnt:notice] [pid 25300:tid 740] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Feb 02 17:43:42.016628 2018] [core:notice] [pid 25300:tid 740] AH00094: Command line: 'C:\\Users\\Jacob\\Google Drive\\Coding\\Repos\\WMD\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/Jacob/Google Drive/Coding/Repos/WMD/UwAmp/bin/apache -f C:\\Users\\Jacob\\Google Drive\\Coding\\Repos\\WMD\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Fri Feb 02 17:43:42.071629 2018] [mpm_winnt:notice] [pid 25300:tid 740] AH00418: Parent: Created child process 25440
+[Fri Feb 02 17:43:49.776633 2018] [ssl:warn] [pid 25440:tid 620] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 17:43:49.782131 2018] [ssl:warn] [pid 25440:tid 620] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 17:43:51.127631 2018] [ssl:warn] [pid 25440:tid 620] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Feb 02 17:43:51.135129 2018] [ssl:warn] [pid 25440:tid 620] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Feb 02 17:43:51.135129 2018] [ssl:warn] [pid 25440:tid 620] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 02 17:43:51.351132 2018] [mpm_winnt:notice] [pid 25440:tid 620] AH00354: Child: Starting 64 worker threads.
